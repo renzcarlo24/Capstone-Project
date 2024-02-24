@@ -1,0 +1,26 @@
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream 25percent.exe.config
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream 25percent.exe
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream 25percent.pdb
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.AssemblyReference.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form1.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Properties.Resources.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.GenerateResource.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.CoreCompileInputs.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.exe
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.pdb
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form2.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form3.resources
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.ResolveComReference.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Second_Page.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Splash_Screen.resources
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.csproj.CopyComplete
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream 25percent.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream 25percent.application
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream 25percent.application

@@ -1,0 +1,70 @@
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream.exe.config
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream.application
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream.exe
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Stream.pdb
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.AssemblyReference.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.ResolveComReference.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form1.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form2.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Form3.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.Properties.Resources.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Second_Page.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream_25percent.Splash_Screen.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.GenerateResource.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.application
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.csproj.CopyComplete
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.exe
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.pdb
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.Report.resources
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Spire.Pdf.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Microsoft.mshtml.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\Spire.Pdf.xml
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\renzc\source\repos\Stream 25percent\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.Beam_Layout.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.Beam_Schedule.resources
+C:\Users\renzc\source\repos\Stream 25percent\obj\Debug\Stream.Reports.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Stream.exe.config
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Stream.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Stream.application
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Stream.exe
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Stream.pdb
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Spire.Pdf.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Microsoft.mshtml.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Spire.Pdf.xml
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.AssemblyReference.cache
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.SuggestedBindingRedirects.cache
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.ResolveComReference.cache
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.Beam_Layout.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.Beam_Schedule.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream_25percent.Form1.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream_25percent.Form2.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream_25percent.Form3.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.Properties.Resources.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.Report.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.Reports.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream_25percent.Second_Page.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream_25percent.Splash_Screen.resources
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.GenerateResource.cache
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.exe.manifest
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.application
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.csproj.CopyComplete
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.exe
+C:\Users\renzc\source\repos\Stream 25percent - Copy\obj\Debug\Stream.pdb
